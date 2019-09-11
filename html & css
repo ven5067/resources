@@ -17,11 +17,11 @@ Section2:
 14. The rest of the HTML tags
 
 Section3: Assessment
-1. 
-2.
-3.
-4.
-5.
+1. question1
+2. question2
+3. question3
+4. question4
+5. question5
 
 Section4: CSS
 0. Intro
@@ -39,7 +39,7 @@ Section5:
 1. Relative vs Absoulte
 1. Inserting pictures and styling
 2. Hover effects
-3. Psuedo classes
+3. Psuedo classes: link, vistited, hover, active, etc
 
 Section6: Build website
 1. Intro
