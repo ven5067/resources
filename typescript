@@ -1,0 +1,74 @@
+Section1: Intro
+0. Intro
+1. What?
+2. Why?
+3. IDE
+4. Setup
+
+Section2: Types for a better code
+1. Types Basics
+2. Nummber & Booleans
+3. Assigining types explicitly
+4. Arrays and Types
+5. Tuples
+6. Enums
+7. Any type
+8. Function as types
+9. Objects and Types
+10. Creating custom types
+11. Union types
+12. Never type
+13. Nullable type
+
+Section3: Typescript compiler
+1. Intro
+2. How code gets compiled
+3. Debugging typescript code using sourcemaps
+
+Section4: Classes
+1. Intro
+2. Creating classes and properties
+3. Class methods and access modifiers
+4. Inheritence
+5. Inheritence and Constructors
+6. Getter and Setters
+7. Static poperties and methods
+8. Abstract classes
+9. Private constructor and singletons(2.0)
+10. readonly property(2.0)
+
+Section5: Namespaces and Modules
+1. Intro
+2. Intro to Namespaces
+3. Namespaces and multiple files
+4. Namespace import
+5. Limitations of Namespace
+6. Loading Modules
+7. Importing and Exporting Modules
+8. Namespaces vs Modules
+
+Seciton6: Contracts with Interfaces
+1. Intro
+2. Interfaces and properties
+3. Interface methods
+4. Using interface with classes
+5. Interfaces and function types
+6. Interface inheritence
+
+Section7: Generics
+1. Intro
+2. Why?
+3. What?
+4. When?
+5. Creating a generic function
+6. A built in generic type: Array
+7. Using genric types
+8. Creating a generic class
+
+Section8: Decorators under hood
+1. Intro
+2. Creating a class decorator
+3. Decorator factories
+4. Method decorator
+5. Property decorator
+6. Parameter decorator
