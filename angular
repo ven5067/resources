@@ -1,0 +1,42 @@
+Section1: Intro
+1. Intro
+2. What?
+3. Why?
+4. IDE
+5. Setup
+
+Section2: Basics_1
+1. Making hands dirty
+2. Typescript
+3. Bootstrapping
+4. Components
+5. Creating a component
+6. Understaing the role of AppModule and Component declaration
+7. Using custom component
+8. Creating components using AngularCLI
+9. Working with component template
+10. Working with component styles
+11. Fully understanding the component selector
+
+Section3: Assessment
+
+Section4: Basics_2
+1. What is databbinding?
+2. String interpolation
+3. Property binding
+4. Property binding vs String interpolation
+5. Event binding
+6. Bindable and events
+7. Passing and using data with event binding
+8. Two-way databinding
+9. Understanding directives
+10. *ngIf
+11. Styling elements dynamically with ngStyle
+12. Applying css classes dynamically with ngClass
+13. Outputting lists with *ngFor
+
+Section5: Assessment
+
+Section6: Debugging
+
+Section7: 
