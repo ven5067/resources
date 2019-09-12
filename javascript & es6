@@ -1,0 +1,101 @@
+Section1: Intro
+1. Intro
+2. Why?
+3. IDE?
+
+Section2: Basics
+1. Making hands dirty
+2. Variables and datatypes
+3. Operators
+
+Section3: Conditional Statements
+1. If, If/Else
+2. Ternary
+3. Switch statement
+
+Section4: Assesment
+
+Section5: Functions & Arrays
+1. Functions
+2. Function statements
+3. Function expressions
+4. Arrays
+
+Section6: Assessment
+
+Section7: Object, Object Properties, Object Methods
+
+Section8: Loops & Iterations
+1. For
+2. While
+3. Do-while
+5. Foreach
+
+Section9: Under hood
+1. Code parsing
+2. Javascript engine
+3. Execution Context
+4. Execution Stack
+5. Hoisting
+6. Scope & Scope Chain
+7. This
+
+Section10: Advanced JS & Functions
+1. Objects
+2. Inheritence and Prototype chain
+3. Function Constructors
+4. Prototype chain
+5. Creating objects
+6. First class functions
+7. IIFE
+8. Closures
+9. Bind, Call and Apply 
+
+Section10: JS HTML DOM Manipulation and Events https://www.w3schools.com/js/js_htmldom_navigation.asp
+1. DOM Intro
+2. DOM Document
+3. DOM Elements
+4. DOM HTML
+5. DOM CSS
+6. DOM Events
+7. DOM Event Listners
+8. DOM Navigation
+9. DOM Nodes
+10. DOM Collections
+11. DOM Node Lists
+
+
+Section10: JS Browser BOM
+1. Intro
+2. JS Screen
+3. JS Location
+4. JS History
+5. JS Navigator
+6. JS Popup Alerts
+7. JS Timing
+8. JS Cookies
+
+Section11: Build project
+
+Section12: ES6
+1. Intro
+2. What's new in ES6/ ES2015
+3. Viable declarations with let and const
+4. Blocks and IIFEs
+5. String in ES6
+6. Arrow functions
+7. Arrow functions: lexical this keyword
+8. Destructuring
+9. Arrays in ES6/2015
+10. The sread operator
+11. Rest parameters
+12. Default parameters
+13. Maps
+14. Classes
+15. Subclasses
+
+Section13: Asynchronous JS AJAX, Promises and Async/Await
+1. Intro
+
+Section14: Build project
+
