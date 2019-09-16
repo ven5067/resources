@@ -31,15 +31,18 @@ Section4: CSS
 4. External style
 5. Selectors
 6. Ids and classes
-7. Common styling properties
-8. Linking javascript
+7. Colors
+8. Common styling properties
+9. Linking javascript
 
 Section5: 
 0. Box modal
-1. Relative vs Absoulte
-1. Inserting pictures and styling
-2. Hover effects
-3. Psuedo classes: link, vistited, hover, active, etc
+1. Building simple layout
+2. Polishing layout
+3. Relative vs Absoulte
+4. Inserting pictures and styling
+5. Hover effects
+6. Psuedo classes: link, vistited, hover, active, etc
 
 Section6: Build website
 1. Intro
