@@ -55,3 +55,119 @@ Section6: Build website
 Section7: Responsive
 Section8: Bootstrap
 Section9: Build website using bootstrap framework
+
+
+/****** DOC HTML & CSS ******/
+HTML & CSS
+
+1. What is HTML?
+A. HTML stands for HyperText Markup Language.  What does it mean?
+   Hypertext: Hypertext is text displayed on a computer display or other electronic devices with references to other text that the reader can immediately access. Hypertext documents are interconnected by hyperlinks, which are typically activated by a mouse click, keypress set or by touching the screen.
+   Markup language: A markup language is a computer language that uses tags to define elements within a document. It is human-readable, meaning markup files contain standard words, rather than typical programming syntax. While several markup languages exist, the two most popular are HTML and XML.
+
+2. How does HTML look like?
+A. <p> Paragraph </p>
+
+3. How does it work?
+A. <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+    </head>
+    <body>
+        <p> Paragraph </p>
+    </body>
+    </html>
+
+4. Save it with .html extension
+
+5. What is CSS?
+A. CSS stands for cascading style sheet. We use CSS to control how a web page looks (Styles)
+
+6. How does it look like?
+A. p {
+    color: red;
+}
+
+7. Save it with .css extension
+
+8. First HTML code?
+
+9. Exploring the document?
+A. <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+    </head>
+    <body>
+        <p> Paragraph </p>
+    </body>
+    </html>
+
+    In detail discussion of each tag
+
+10. Headings (H1 - H6)?
+
+11. Comments<!-- -->, white space and line breaks <br>?
+
+12. Popular HTML tags?
+A. https://www.geeksforgeeks.org/most-commonly-used-tags-in-html/
+http://www.99lime.com/_bak/topics/you-only-need-10-tags/
+
+13. Creating images?
+
+14. Creating links?
+
+15. Clickable images?
+
+16. Tables?
+
+17. Forms?
+A. https://www.w3schools.com/html/html_forms.asp
+
+18. Lists? order lists and un-order lists?
+
+19. Rest of HTML tags?
+A. https://www.w3schools.com/tags/ref_byfunc.asp
+
+20. html references?
+A. https://developer.mozilla.org/en-US/docs/Web/HTML
+   https://www.w3schools.com/html/
+
+21. Inline style?
+
+22. Internal style?
+
+23. External style?
+
+24. Selectors?
+A. https://www.w3schools.com/css/css_selectors.asp
+
+25. CSS references?
+A. https://www.w3schools.com/css/css_pseudo_classes.asp
+
+26. Id's and classes?
+
+27. Psedudo-classes?
+
+28. Linking JavaScript?
+
+29. Internal linking?
+
+30. External linking?
+
+31. CSS common properties?
+A. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
+
+32. Inserting images and styling?
+
+33. Inserting images via CSS?
+
+34. Hover effect?
+
